@@ -95,7 +95,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
   <!-- Extra -->
-  <img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
   <!-- Portfolio Button -->
 
